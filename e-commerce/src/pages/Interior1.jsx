@@ -11,7 +11,7 @@ import ARMREST2 from '../assets/armrest2.jpg'
 import ARMS from '../assets/armrest3.jpg'
 import SPEAKER from '../assets/speaker.webp';
 import JBL from "../assets/jblset.webp";
-import WOOFER from '../assets/wooferjbl.webp';
+import WOOFER from '../assets/WOOFERJBL.webp';
 
 
 
