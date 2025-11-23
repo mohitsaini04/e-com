@@ -12,7 +12,7 @@ const Navbar = () => {
             type="Search"
             id="Search"
             name="Search"
-            placeholder="guu kha lo jo idr aya"
+            placeholder="SEARCH FOR PRODUCTS"
           ></input>
           <submit className="text-2xl mt-15 bg-red-500 mb-15 px-1 rounded-r-2xl flex text-gray-500 ">
             Search
